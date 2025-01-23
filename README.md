@@ -159,3 +159,6 @@ generate_pack(i)
 • If drafting with more than 8 players, expand the card pool by duplicating themes or allowing more loose randomness.
 
 • Create extra packs and shuffle them to avoid predictability.
+
+
+#mtg #magic #magicthegathering
